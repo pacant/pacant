@@ -2,7 +2,7 @@
 
 ![Pacant  GitHub stats](https://github-readme-stats.vercel.app/api?username=pacant&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacant)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacant&show_icons=true&theme=synthwave)
 
 <!--
 **pacant/pacant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
